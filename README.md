@@ -30,3 +30,9 @@ The first visualization is a bar chart showing the temperature of each city. Eac
 The second visualization is a line graph showing wind speed across the cities. Each point on the graph represents a city’s wind speed, and the line connects these points to show variation. This helps users observe differences in wind conditions among the cities.
 
 Overall, this project demonstrates important programming concepts such as using APIs to fetch real-time data, handling JSON responses, organizing data into structured formats, and creating visualizations to interpret information clearly. It is a practical example of how Python can be used for real-world applications like weather monitoring. The project also helps beginners learn about data collection, processing, and presentation, which are essential skills in data science and software development.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/e65204f4-9ce8-42d0-8c54-c845719220ec)
+
+![Image](https://github.com/user-attachments/assets/10736fe2-d99d-43ca-a717-88f5592d65f5)
